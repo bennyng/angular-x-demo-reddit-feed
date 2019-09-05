@@ -1,0 +1,34 @@
+.container {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  margin: 22px auto;
+  width: 640px;
+}
+
+.reddit {
+  border-bottom: #123456 1px solid;
+  padding: 12px;
+  border: #e1e8ed 1px solid;
+  border-radius: 5px;
+  background-color: rgb(255, 255, 255);
+}
+
+.title {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 20px;
+  padding: 12px 0px 16px;
+  margin: 0;
+  color: #123456;
+  text-align: left;
+}
+
+img {
+  width: 610px;
+  height: auto;
+  border-bottom: #123456 1px solid;
+  border: #e1e8ed 1px solid;
+  border-radius: 5px;
+}
